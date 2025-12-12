@@ -133,3 +133,64 @@
   </footer>
 </body>
 </html>
+<section style="padding: 60px 20px; text-align: center; background: #f8f9ff;">
+    <h2 style="font-size: 32px; font-weight: 700; margin-bottom: 20px; color: #1e3a8a;">
+        Hubungi Kami
+    </h2>
+    <p style="font-size: 16px; color: #555; max-width: 600px; margin: 0 auto 30px;">
+        Siap bantu buat website UMKM kamu!  
+        Pilih platform yang paling nyaman buat kamu 👇
+    </p>
+
+    <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
+
+        <!-- WhatsApp -->
+        <a href="https://wa.me/6283194854924"
+           style="
+               padding: 12px 24px;
+               background: #25D366;
+               color: white;
+               font-size: 16px;
+               font-weight: 600;
+               border-radius: 10px;
+               text-decoration: none;
+               box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+               display: inline-block;
+           ">
+            WhatsApp
+        </a>
+
+        <!-- Instagram -->
+        <a href="https://instagram.com/kotaak"
+           style="
+               padding: 12px 24px;
+               background: #E1306C;
+               color: white;
+               font-size: 16px;
+               font-weight: 600;
+               border-radius: 10px;
+               text-decoration: none;
+               box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+               display: inline-block;
+           ">
+            Instagram
+        </a>
+
+        <!-- Telegram -->
+        <a href="https://t.me/kotak"
+           style="
+               padding: 12px 24px;
+               background: #0088cc;
+               color: white;
+               font-size: 16px;
+               font-weight: 600;
+               border-radius: 10px;
+               text-decoration: none;
+               box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+               display: inline-block;
+           ">
+            Telegram
+        </a>
+
+    </div>
+</section>
